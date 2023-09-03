@@ -1,6 +1,10 @@
 Student Feedback System
 The Student Feedback System is a Windows application developed using Java Swing and MySQL. It allows for the creation of student accounts and the submission of feedback. This README.md file provides an overview of the project, its features, and instructions for setting it up.
 
+![External Image](https://github.com/ravipriy/Java/blob/main/JavaStudentFeedback/Screenshots/s1.png)
+![External Image](https://github.com/ravipriy/Java/blob/main/JavaStudentFeedback/Screenshots/s2.png)
+![External Image](https://github.com/ravipriy/Java/blob/main/JavaStudentFeedback/Screenshots/s3.png)
+![External Image](https://github.com/ravipriy/Java/blob/main/JavaStudentFeedback/Screenshots/s4.png)
 Features
 Account Creation: The system enables administrators to create student accounts efficiently.
 
